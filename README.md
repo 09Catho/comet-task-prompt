@@ -188,7 +188,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **🌟 Star this repository if you find these prompts useful!**
 
-Made with ❤️ by the automation community
+Made with ❤️ by the Panda and Rabbit
 
 [⬆️ Back to Top](#-comet-prompt-library)
 
