@@ -1,0 +1,9 @@
+required:
+- title
+- category
+- scope
+- output_format
+- difficulty
+optional:
+- automation
+- tags
